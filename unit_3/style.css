@@ -1,0 +1,15 @@
+style.css,
+body{
+  text-align: left;
+  background: url("https://images.wallpaperscraft.com/image/burger_hamburger_buns_meat_knife_116170_1280x720.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: sans-serif; 
+  font-style: oblique;
+}
+hr { width: 200px;
+	text-align: left;
+}
+p {
+  font-size: 22px;
+}");
