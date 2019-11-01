@@ -1,12 +1,18 @@
 
+@import url('https://fonts.googleapis.com/css?family=Anton|Staatliches&display=swap');
+
+header{
+  font-family: 'Staatliches', cursive;
+}
 body{
   text-align: left;
   background: url("https://images.wallpaperscraft.com/image/burger_hamburger_buns_meat_knife_116170_1280x720.jpg");
   background-size: cover;
-  color: #fff;
-  font-family: sans-serif; 
+  color: #fff; 
   font-style: oblique;
-}
+  box-sizing: auto;
+ font-family: 'Anton', sans-serif;
+ }
 hr { width: 200px;
 	text-align: left;
 }
